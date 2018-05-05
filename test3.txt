@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5E79-E8DA
+
+ Directory of C:\GitProject
+
+05-May-18  11:13 AM    <DIR>          .
+05-May-18  11:13 AM    <DIR>          ..
+04-May-18  09:12 PM               381 index.html
+04-May-18  09:11 PM                 6 test1
+04-May-18  09:31 PM               426 test2
+05-May-18  11:13 AM                 0 test3.txt
+04-May-18  09:43 PM    <DIR>          wcomponents
+               4 File(s)            813 bytes
+               3 Dir(s)  377,630,539,776 bytes free
